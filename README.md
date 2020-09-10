@@ -10,5 +10,4 @@ Python >= 3.4
 pip-installables:
 
 pymodbus
-
 bidict
