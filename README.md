@@ -6,6 +6,9 @@ Requires console to be set to receive modbus commands. Currently just works to s
 ## Requirements:
 Python >= 3.4
 
+
 pip-installables:
+
 pymodbus
+
 bidict
