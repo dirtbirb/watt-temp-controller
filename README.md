@@ -7,7 +7,6 @@ Requires console to be set to receive modbus commands. Currently just works to s
 Python >= 3.4
 
 
-pip-installables:
-
-pymodbus
+pip-installables:<br>
+pymodbus<br>
 bidict
